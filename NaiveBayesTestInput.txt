@@ -1,0 +1,8 @@
+I love the Yankees-Y
+Derek Jeter is awesome-Y
+I like David Wright-N
+I am a Mets fan-N
+Derek Jeter played for the Yankees-Y
+David Wright plays for the Mets-N
+I do not like Derek Jeter and the Yankees-N
+I like David Wright and the Mets-N
